@@ -1,6 +1,9 @@
-Hi there!👋 Welcome to my GitHub! I am studying ⚡️Electrical and Electronic Engineering at the University of Manchester! I am interested in 🤖Robotics, and 🤖AI!
+Hi there!👋 Welcome to my GitHub! 
+I am studying ⚡️Electrical and Electronic Engineering at the University of Manchester! I am interested in 🤖Robotics, and 🤖AI!
 
 
+https://img.shields.io/badge/<#3776AB>-<PYTHON>-<Black>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/>
 
 <!--
 **doyun-gu/doyun-gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
