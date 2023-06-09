@@ -3,7 +3,7 @@ Hi there!👋 Welcome to my GitHub!
 I am studying ⚡️Electrical and Electronic Engineering at the University of Manchester! I am interested in 🤖Robotics, and 🤖AI!
 
 #### Reach me Here: me@doyungu.com
-<a href = "me@doyungu.com"><img src="https://img.shields.io/badge/Mail.Ru-005FF9?style=flat-square&logo=Email&logoColor=black"/> </a>
+<a href = "me@doyungu.com"><img src="https://img.shields.io/badge/Mail.Ru-005FF9?style=flat-square&logo=Email> </a>
       
 #### 🖥️ Programming Languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
