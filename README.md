@@ -3,7 +3,7 @@ Hi there!👋 Welcome to my GitHub!
 I am studying ⚡️Electrical and Electronic Engineering at the University of Manchester! I am interested in 🤖Robotics, and 🤖AI!
 
 #### 🖥️ Programming Languages:
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
 
 #### Engineering Softwares:
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=black"/> <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ANSYS&logoColor=black"/>
