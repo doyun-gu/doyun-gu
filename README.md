@@ -1,4 +1,5 @@
-### Hi there! I am studying ⚡️Electrical and Electronic Engineering at the University of Manchester! I am interested in 🤖Robotics, and 🤖AI!
+### Hi there!
+I am studying ⚡️Electrical and Electronic Engineering at the University of Manchester! I am interested in 🤖Robotics, and 🤖AI!
 
 <!--
 **doyun-gu/doyun-gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
