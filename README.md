@@ -6,7 +6,7 @@ I am studying ⚡️Electrical and Electronic Engineering at the University of M
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
 #### Engineering Softwares:
-<img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=white"/>
+<img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=black"/>
 
 <!--
 **doyun-gu/doyun-gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
