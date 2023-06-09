@@ -6,9 +6,7 @@ I am studying ⚡️Electrical and Electronic Engineering at the University of M
 <a href="https://www.instagram.com/doyun._.gu/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a> <img src="https://img.shields.io/badge/mail.ru-005FF9?style=flat-square&logo=C++&logoColor=white"/> 
-
-
-                                                                                                           
+      
 #### 🖥️ Programming Languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
 
