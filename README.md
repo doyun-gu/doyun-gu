@@ -5,8 +5,9 @@ I am studying ⚡️Electrical and Electronic Engineering at the University of M
 #### Meet me Here:
 <a href="https://www.instagram.com/doyun._.gu/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</a> <a href="me@doyungu.com">
-  <img src="me@doyungu.com/badge/minutemailer-30B980?style=flat-square&logo=me@doyungu.com&logoColor=white"/>
+</a> 
+<a href="me@doyungu.com">
+  <img src="me@doyungu.com/badge/minutemailer-30B980?style=flat-square&logo=email&logoColor=white"/>
 </a>
                                                                                                            
 #### 🖥️ Programming Languages:
