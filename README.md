@@ -6,7 +6,7 @@ I am studying ⚡️Electrical and Electronic Engineering at the University of M
 <a href="https://www.instagram.com/doyun._.gu/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a> 
-<img src="https://img.shields.io/badge/Mail.Ru-005FF9?style=flat-square&logo=me@doyungu.com&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mail.Ru-005FF9?style=flat-square&logo=email&logoColor=white"/>
 
 
                                                                                                            
