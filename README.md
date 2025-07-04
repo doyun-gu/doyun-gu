@@ -1,11 +1,15 @@
-Hi there!👋 Welcome to my GitHub! 
+Hi there!👋 
 
-I am studying ⚡️Electrical and Electronic Engineering at the University of Manchester! I am interested in 🤖Robotics, and 🤖AI!
+Welcome to my GitHub page! 
+
+I am studying Electrical and Electornics Engineering and currently I'm on the journey of placement year at Aston Martin (2024-25), then I will be returning to the University for 2025-26.
+I love doing PCB Designs and Firmware development but at the same time doing the Data Analysis!
+If there's anything you need from my side please see the below for the information!
 
 #### Reach me Here: me@doyungu.com
       
 #### 🖥️ Programming Languages:
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/PYTHON-61DAFB?style=flat&logo=Python&logoColor=white"/>
 
 #### 💾 Engineering Softwares:
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=black"/> <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ANSYS&logoColor=black"/> 
