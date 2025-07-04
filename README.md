@@ -11,7 +11,6 @@ If there's anything you need from my side please see the below for the informati
 #### 🖥️ Programming Languages:
 <!-- Python -->
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white"/>
-
 <!-- C -->
 <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white"/>
 
