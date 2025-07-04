@@ -9,26 +9,27 @@ If there's anything you need from my side please see the below for the informati
 #### Reach me Here: me@doyungu.com
       
 #### 🖥️ I have experienced with:
-<!-- Python -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python"/>
+<!-- Python (blue background, white logo) -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
-<!-- C -->
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c"/>
+<!-- C (light blue background, dark logo for visibility) -->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
 
-<!-- C++ -->
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
+<!-- C++ (dark blue background, white logo) -->
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 
-<!-- HTML -->
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5"/>
+<!-- HTML (orange background, white logo) -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 
-<!-- CSS -->
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3"/>
+<!-- CSS (blue background, white logo) -->
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
 
-<!-- JavaScript -->
+<!-- JavaScript (yellow background, black logo) -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
-<!-- PostgreSQL -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql"/>
+<!-- PostgreSQL (blue background, white logo) -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+
 
 
 #### 💾 Engineering Softwares:
