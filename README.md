@@ -22,8 +22,10 @@ I'm passionate about bridging the gap between hardware and software. My interest
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-<div align = "center">
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyun-gu&layout=donut)](https://github.com/doyun-gu/github-readme-stats)
+
 </div>
 ---
 
