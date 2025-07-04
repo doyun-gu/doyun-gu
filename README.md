@@ -9,7 +9,8 @@ If there's anything you need from my side please see the below for the informati
 #### Reach me Here: me@doyungu.com
       
 #### 🖥️ Programming Languages:
-   <img src="https://img.shields.io/badge/PYTHON-61DAFB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-61DAFB?style=flat&logo=python&logoColor=white"/>
+
 
 #### 💾 Engineering Softwares:
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=black"/> <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ANSYS&logoColor=black"/> 
