@@ -1,4 +1,8 @@
+<div align="center">
+  
 ## 👋 About Me
+
+</div>
 
 I'm currently studying **Electrical and Electronic Engineering**, and I'm on a **placement year (2024–2025)** at **Aston Martin**. I'll return to university to complete my final year in **2025–2026**.
 
