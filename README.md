@@ -8,29 +8,14 @@ If there's anything you need from my side please see the below for the informati
 
 #### Reach me Here: me@doyungu.com
       
-#### 🖥️ Programming Languages:
-<!-- Python -->
+#### 🖥️ I have experienced with:
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white"/>
-<!-- C -->
 <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white"/>
-
-<!-- C++ -->
 <img src="https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B&logoColor=white"/>
-
-<!-- HTML -->
 <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=white"/>
-
-<!-- CSS -->
 <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=white"/>
-
-<!-- JavaScript -->
 <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white"/>
-
-<!-- PostgreSQL -->
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql&logoColor=white"/>
-
-
-
 
 #### 💾 Engineering Softwares:
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=black"/> <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ANSYS&logoColor=black"/> 
