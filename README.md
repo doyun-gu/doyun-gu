@@ -24,6 +24,7 @@ I'm passionate about bridging the gap between hardware and software. My interest
 
 <div align="center">
 
+![Doyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyun-gu&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyun-gu&layout=donut)](https://github.com/doyun-gu/github-readme-stats)
 
 </div>
