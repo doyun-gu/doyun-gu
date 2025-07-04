@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyun-gu&layout=compact)
+![Doyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyun-gu&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyun-gu&layout=compact)
