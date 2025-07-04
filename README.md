@@ -9,7 +9,27 @@ If there's anything you need from my side please see the below for the informati
 #### Reach me Here: me@doyungu.com
       
 #### 🖥️ I have experienced with:
-<img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql&logoColor=white"/>
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python"/>
+
+<!-- C -->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c"/>
+
+<!-- C++ -->
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
+
+<!-- HTML -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5"/>
+
+<!-- CSS -->
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3"/>
+
+<!-- JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+
+<!-- PostgreSQL -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql"/>
+
 
 #### 💾 Engineering Softwares:
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=black"/> <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ANSYS&logoColor=black"/> 
