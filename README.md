@@ -14,7 +14,7 @@ I'm passionate about bridging the gap between hardware and software. My interest
 
 ---
 
-## 🖥️ Technologies I've Worked With
+## ✓ Technologies I've Worked With
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -35,5 +35,5 @@ I'm passionate about bridging the gap between hardware and software. My interest
 
 ---
 
-## 📫 Reach Me
+## ✓ Reach Me
 **Email**: [me@doyungu.com](mailto:me@doyungu.com)
