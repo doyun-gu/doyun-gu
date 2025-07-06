@@ -6,7 +6,9 @@
 
 I'm currently studying **Electrical and Electronic Engineering**, and I'm on a **placement year (2024–2025)** at **Aston Martin**. I'll return to university to complete my final year in **2025–2026**.
 
-I'm passionate about bridging the gap between hardware and software. My interests span across:
+I'm passionate about bridging the gap between hardware and software. 
+
+My interests span across:
 
 - **Firmware development** – building efficient embedded systems.
 - **PCB design** – from schematic capture to board layout and manufacturing.
