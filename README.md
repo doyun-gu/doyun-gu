@@ -4,7 +4,7 @@
 
 </div>
 
-I'm currently studying **Electrical and Electronic Engineering**, and I'm on a **placement year (2024–2025)** at **Aston Martin**. I'll return to university to complete my final year in **2025–2026**.
+I'm currently studying **Electrical and Electronic Engineering** at the University of Manchester and just returned to my final year after my Placement Year at *Aston Martin*.
 
 I'm passionate about bridging the gap between hardware and software. 
 
