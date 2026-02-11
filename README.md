@@ -71,7 +71,7 @@ I'm passionate about bridging the gap between hardware and software. My work sit
 <img src="https://github-readme-stats.vercel.app/api?username=doyun-gu&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=12" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyun-gu&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=12" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=doyun-gu&theme=github_dark_dimmed&hide_border=true&border_radius=12" width="600"/>
+<img src="https://streak-stats.demolab.com/?user=doyun-gu&theme=github_dark_dimmed&hide_border=true&border_radius=12" width="600"/>
 
 </div>
 
@@ -89,7 +89,7 @@ I'm passionate about bridging the gap between hardware and software. My work sit
 
 </div>
 
-> 💡 *The snake animation requires a GitHub Action — see setup instructions below.*
+> 💡 *The snake animation is generated daily by a [GitHub Action](.github/workflows/snake.yml). After pushing, go to **Actions → Generate Snake Animation → Run workflow** to trigger the first run.*
 
 ---
 
