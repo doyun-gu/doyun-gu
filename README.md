@@ -64,19 +64,6 @@ I'm passionate about bridging the gap between hardware and software. My work sit
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=doyun-gu&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=12" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyun-gu&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=12" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=doyun-gu&theme=github_dark_dimmed&hide_border=true&border_radius=12" width="600"/>
-
-</div>
-
----
-
 ### 🐍 Contribution Graph
 
 <div align="center">
@@ -88,8 +75,6 @@ I'm passionate about bridging the gap between hardware and software. My work sit
 </picture>
 
 </div>
-
-> 💡 *The snake animation is generated daily by a [GitHub Action](.github/workflows/snake.yml). After pushing, go to **Actions → Generate Snake Animation → Run workflow** to trigger the first run.*
 
 ---
 
