@@ -26,27 +26,28 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=light" />
   </a>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-78C557?style=for-the-badge&logo=freertos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="48" alt="STM32" title="STM32"/>
+  <img src="https://cdn.simpleicons.org/micropython/2B2728" height="48" alt="MicroPython" title="MicroPython"/>
 </p>
 
 ### EDA & Simulation
 
 <p>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LTspice-8E0A26?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/kicad/314CB0" height="48" alt="KiCad" title="KiCad"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="48" alt="Altium Designer" title="Altium Designer"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/analogdevices/8E0A26" height="48" alt="LTspice" title="LTspice"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mathworks/0076A8" height="48" alt="MATLAB / Simulink" title="MATLAB / Simulink"/>
 </p>
 
 ### CAD & Fabrication
 
 <p>
-  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fusion_360-F79520?style=for-the-badge&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightBurn-F05F21?style=for-the-badge&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/dassaultsystemes/E2231A" height="48" alt="SolidWorks" title="SolidWorks"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/autodesk/F79520" height="48" alt="Fusion 360" title="Fusion 360"/>
 </p>
 
 ### Web & Frameworks
