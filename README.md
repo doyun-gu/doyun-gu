@@ -11,30 +11,33 @@
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,latex,matlab,raspberrypi,arduino&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,latex,matlab&theme=light" />
 </a>
-
-<br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,flask,fastapi,nodejs,vite,docker,firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,flask,fastapi,nodejs,vite&theme=light" />
 </a>
-
-<br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postgres,sqlite,mongodb,figma,vscode,notion&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,linux,postgres,sqlite,mongodb,raspberrypi,arduino&theme=light" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,notion&theme=light" />
 </a>
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="40" alt="STM32" title="STM32"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kicad/314CB0" height="40" alt="KiCad" title="KiCad"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="40" alt="Altium Designer" title="Altium Designer"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/analogdevices/8E0A26" height="40" alt="LTspice" title="LTspice"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/dassaultsystemes/E2231A" height="40" alt="SolidWorks" title="SolidWorks"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/autodesk/000000" height="40" alt="Fusion 360" title="Fusion 360"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/micropython/2B2728" height="40" alt="MicroPython" title="MicroPython"/>
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-8E0A26?style=flat-square&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F79520?style=flat-square&logo=autodesk&logoColor=white)
+![LightBurn](https://img.shields.io/badge/LightBurn-F05F21?style=flat-square&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-78C557?style=flat-square&logo=freertos&logoColor=white)
 
 </div>
 
