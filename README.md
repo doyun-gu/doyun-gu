@@ -61,7 +61,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,linux,postgres,sqlite,figma,vscode,notion&theme=light" />
+    <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,linux,postgres,sqlite,mongodb,figma,vscode,notion&theme=light" />
   </a>
 </p>
 
