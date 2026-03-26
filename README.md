@@ -4,11 +4,7 @@
 
 **Electrical & Electronic Engineering**
 
-<table><tr>
-<td align="center"><img src="assets/uom.png" height="50" alt="University of Manchester" /><br/><sub>BEng Final Year</sub></td>
-<td width="40"></td>
-<td align="center"><img src="assets/aston-martin.png" height="40" alt="Aston Martin" /><br/><sub>Placement Year</sub></td>
-</tr></table>
+BEng Final Year · <img src="assets/uom.png" height="20" alt="University of Manchester" />&nbsp;&nbsp;&nbsp;&nbsp;Placement · <img src="assets/aston-martin.png" height="14" alt="Aston Martin" />
 
 [![Website](https://img.shields.io/badge/doyungu.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://doyungu.com/about)
 [![Email](https://img.shields.io/badge/me@doyungu.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@doyungu.com)
