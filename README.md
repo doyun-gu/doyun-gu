@@ -8,67 +8,37 @@
 [![Email](https://img.shields.io/badge/me@doyungu.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@doyungu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doyun-gu)
 
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,latex,matlab,raspberrypi,arduino&theme=light" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,flask,fastapi,nodejs,vite,docker,firebase&theme=light" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postgres,sqlite,mongodb,figma,vscode,notion&theme=light" />
+</a>
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="40" alt="STM32" title="STM32"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kicad/314CB0" height="40" alt="KiCad" title="KiCad"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="40" alt="Altium Designer" title="Altium Designer"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/analogdevices/8E0A26" height="40" alt="LTspice" title="LTspice"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/dassaultsystemes/E2231A" height="40" alt="SolidWorks" title="SolidWorks"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/autodesk/000000" height="40" alt="Fusion 360" title="Fusion 360"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/micropython/2B2728" height="40" alt="MicroPython" title="MicroPython"/>
+
 </div>
 
 ---
-
-### Languages
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,latex,matlab&theme=light" />
-  </a>
-</p>
-
-### Embedded & Hardware
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=light" />
-  </a>
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="48" alt="STM32" title="STM32"/>
-  <img src="https://cdn.simpleicons.org/micropython/2B2728" height="48" alt="MicroPython" title="MicroPython"/>
-</p>
-
-### EDA & Simulation
-
-<p>
-  <img src="https://cdn.simpleicons.org/kicad/314CB0" height="48" alt="KiCad" title="KiCad"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="48" alt="Altium Designer" title="Altium Designer"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/analogdevices/8E0A26" height="48" alt="LTspice" title="LTspice"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mathworks/0076A8" height="48" alt="MATLAB / Simulink" title="MATLAB / Simulink"/>
-</p>
-
-### CAD & Fabrication
-
-<p>
-  <img src="https://cdn.simpleicons.org/dassaultsystemes/E2231A" height="48" alt="SolidWorks" title="SolidWorks"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/autodesk/F79520" height="48" alt="Fusion 360" title="Fusion 360"/>
-</p>
-
-### Web & Frameworks
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,flask,fastapi,nodejs,vite&theme=light" />
-  </a>
-</p>
-
-### Infrastructure & Tools
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,linux,postgres,sqlite,mongodb,figma,vscode,notion&theme=light" />
-  </a>
-</p>
-
----
-
-### Contribution Graph
 
 <div align="center">
 
@@ -77,13 +47,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doyun-gu/doyun-gu/output/github-snake.svg" />
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/doyun-gu/doyun-gu/output/github-snake.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=doyun-gu&style=flat-square&color=blue)
 
 </div>
