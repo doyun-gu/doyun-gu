@@ -16,11 +16,40 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,latex,matlab&theme=light" />
   </a>
 </p>
 
-### Frameworks & Tools
+### Embedded & Hardware
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=light" />
+  </a>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-78C557?style=for-the-badge&logo=freertos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/>
+</p>
+
+### EDA & Simulation
+
+<p>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LTspice-8E0A26?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+### CAD & Fabrication
+
+<p>
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fusion_360-F79520?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightBurn-F05F21?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Web & Frameworks
 
 <p>
   <a href="https://skillicons.dev">
@@ -28,11 +57,11 @@
   </a>
 </p>
 
-### Infrastructure & Data
+### Infrastructure & Tools
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,linux,postgres,sqlite,raspberrypi&theme=light" />
+    <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,linux,postgres,sqlite,figma,vscode,notion&theme=light" />
   </a>
 </p>
 
