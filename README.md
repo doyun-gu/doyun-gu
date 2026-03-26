@@ -2,7 +2,10 @@
 
 # Hey, I'm Doyun
 
-**Electrical & Electronic Engineering** · University of Manchester
+**Electrical & Electronic Engineering**
+
+![University of Manchester](https://img.shields.io/badge/University_of_Manchester-660099?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN3Y0aDIwVjdMMTIgMnptMCAyLjE4TDE5LjUgOUg0LjVMMTIgNC4xOHpNNCAyMGgyVjExSDR2OXptNiAwaDJWMTFoLTJ2OXptNiAwaDJWMTFoLTJ2OXptLTE0IDBoMjB2Mkgydi0yeiIvPjwvc3ZnPg==&logoColor=white)
+![Aston Martin](https://img.shields.io/badge/Aston_Martin-006B38?style=flat-square&logo=astonmartin&logoColor=white)
 
 [![Website](https://img.shields.io/badge/doyungu.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://doyungu.com/about)
 [![Email](https://img.shields.io/badge/me@doyungu.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@doyungu.com)
