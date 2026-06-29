@@ -40,6 +40,7 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-F79520?style=flat-square&logo=autodesk&logoColor=white)
 ![LightBurn](https://img.shields.io/badge/LightBurn-F05F21?style=flat-square&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-78C557?style=flat-square&logo=freertos&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 </div>
 
