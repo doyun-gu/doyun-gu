@@ -4,7 +4,7 @@
 
 **Electrical & Electronic Engineering at**
 
-<a href="https://www.manchester.ac.uk"><img src="assets/uom.png" height="55" alt="University of Manchester" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.eee.manchester.ac.uk"><img src="assets/uom-eee.png" height="75" alt="UoM Department of Electrical & Electronic Engineering" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.astonmartin.com"><img src="assets/aston-martin.png" height="80" alt="Aston Martin" /></a>
+<img src="assets/affiliations.png" width="630" alt="University of Manchester · UoM Electrical & Electronic Engineering · Aston Martin" />
 
 [![Website](https://img.shields.io/badge/doyungu.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://doyungu.com/about)
 [![Email](https://img.shields.io/badge/me@doyungu.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@doyungu.com)
