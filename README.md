@@ -4,11 +4,7 @@
 
 **Electrical & Electronic Engineering at**
 
-<table align="center"><tr>
-<td width="200" align="center"><a href="https://www.manchester.ac.uk"><img src="assets/uom.png" height="55" alt="University of Manchester" /></a></td>
-<td width="200" align="center"><a href="https://www.eee.manchester.ac.uk"><img src="assets/uom-eee.png" height="70" alt="UoM Department of Electrical & Electronic Engineering" /></a></td>
-<td width="200" align="center"><a href="https://www.astonmartin.com"><img src="assets/aston-martin.png" height="80" alt="Aston Martin" /></a></td>
-</tr></table>
+<a href="https://www.manchester.ac.uk"><img src="assets/uom.png" height="55" alt="University of Manchester" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.eee.manchester.ac.uk"><img src="assets/uom-eee.png" height="75" alt="UoM Department of Electrical & Electronic Engineering" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.astonmartin.com"><img src="assets/aston-martin.png" height="80" alt="Aston Martin" /></a>
 
 [![Website](https://img.shields.io/badge/doyungu.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://doyungu.com/about)
 [![Email](https://img.shields.io/badge/me@doyungu.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@doyungu.com)
@@ -57,5 +53,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doyun-gu/doyun-gu/output/github-snake.svg" />
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/doyun-gu/doyun-gu/output/github-snake.svg" />
 </picture>
+
+<br/>
+<br/>
+
+<img src="assets/uchiha.png" height="44" alt="Uchiha crest" />
 
 </div>
