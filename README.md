@@ -3,7 +3,7 @@
 # Hey, I'm Doyun
 
 <a href="https://github.com/doyun-gu">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C9A227&center=true&vCenter=true&width=600&lines=Power+Systems+%E2%80%A2+Embedded+%E2%80%A2+Simulation;Founder+of+Phixty+%2F+DPSpice;Building+fast+grid+simulators" alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C9A227&center=true&vCenter=true&width=600&lines=Hello%2C+World%21;Welcome+to+my+GitHub;AI+%E2%80%A2+Power+Electronics+%E2%80%A2+Simulation" alt="typing tagline" />
 </a>
 
 <br/>
