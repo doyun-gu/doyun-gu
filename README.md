@@ -2,6 +2,12 @@
 
 # Hey, I'm Doyun
 
+<a href="https://github.com/doyun-gu">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C9A227&center=true&vCenter=true&width=600&lines=Power+Systems+%E2%80%A2+Embedded+%E2%80%A2+Simulation;Founder+of+Phixty+%2F+DPSpice;Building+fast+grid+simulators" alt="typing tagline" />
+</a>
+
+<br/>
+
 **Electrical & Electronic Engineering at**
 
 <img src="assets/affiliations.png" width="630" alt="University of Manchester · UoM Electrical & Electronic Engineering · Aston Martin" />
@@ -53,6 +59,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doyun-gu/doyun-gu/output/github-snake.svg" />
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/doyun-gu/doyun-gu/output/github-snake.svg" />
 </picture>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=doyun-gu&bg_color=00000000&color=C9A227&line=C9A227&point=C9A227&area=true&area_color=C9A227&hide_border=true&hide_title=true" alt="contribution activity graph" />
 
 <br/>
 <br/>
